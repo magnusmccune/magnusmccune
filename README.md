@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @magnusmccune
+👋 Hi, I’m @magnusmccune
 
 - You can find my blog at [magnusmccune.com](https://magnusmccune.com), where I post a mix of technical and less practical thoughts
 - You can find my professional information on [LinkedIn](https://www.linkedin.com/in/magnusmccune/)
